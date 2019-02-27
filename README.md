@@ -1,0 +1,1 @@
+# Aspecte-pragmatice-pentru-ingineria-serviciilor-cloud-arhitecturi-procese-si-practici
