@@ -1,0 +1,78 @@
+{
+    "resource": "/sad",
+    "path": "/sad",
+    "httpMethod": "GET",
+    "headers": {
+        "Accept": "*/*",
+        "CloudFront-Forwarded-Proto": "https",
+        "CloudFront-Is-Desktop-Viewer": "true",
+        "CloudFront-Is-Mobile-Viewer": "false",
+        "CloudFront-Is-SmartTV-Viewer": "false",
+        "CloudFront-Is-Tablet-Viewer": "false",
+        "CloudFront-Viewer-Country": "RO",
+        "Host": "6aadp98dil.execute-api.eu-west-1.amazonaws.com",
+        "User-Agent": "curl/7.64.0",
+        "Via": "2.0 5dbe09af3a2c87121e31ffa67f174f66.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Id": "Tl866TgxpFtrABSA1plueug63xnlZFS9zZo_asWUFUFD9XlQLAQqsA==",
+        "X-Amzn-Trace-Id": "Root=1-5c9b1f25-2e17894b29c557aea763d75f",
+        "X-Forwarded-For": "46.97.144.50, 52.46.9.19",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+        "Accept": ["*/*"],
+        "CloudFront-Forwarded-Proto": ["https"],
+        "CloudFront-Is-Desktop-Viewer": ["true"],
+        "CloudFront-Is-Mobile-Viewer": ["false"],
+        "CloudFront-Is-SmartTV-Viewer": ["false"],
+        "CloudFront-Is-Tablet-Viewer": ["false"],
+        "CloudFront-Viewer-Country": ["RO"],
+        "Host": ["6aadp98dil.execute-api.eu-west-1.amazonaws.com"],
+        "User-Agent": ["curl/7.64.0"],
+        "Via": ["2.0 5dbe09af3a2c87121e31ffa67f174f66.cloudfront.net (CloudFront)"],
+        "X-Amz-Cf-Id": ["Tl866TgxpFtrABSA1plueug63xnlZFS9zZo_asWUFUFD9XlQLAQqsA=="],
+        "X-Amzn-Trace-Id": ["Root=1-5c9b1f25-2e17894b29c557aea763d75f"],
+        "X-Forwarded-For": ["46.97.144.50, 52.46.9.19"],
+        "X-Forwarded-Port": ["443"],
+        "X-Forwarded-Proto": ["https"]
+    },
+    "queryStringParameters": {
+        "name": "lambda"
+    },
+    "multiValueQueryStringParameters": {
+        "name": ["lambda"]
+    },
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+        "resourceId": "q7hpnk",
+        "resourcePath": "/sad",
+        "httpMethod": "GET",
+        "extendedRequestId": "XMHN4FOxjoEFV_g=",
+        "requestTime": "27/Mar/2019:06:58:45 +0000",
+        "path": "/prod/sad",
+        "accountId": "229632120389",
+        "protocol": "HTTP/1.1",
+        "stage": "prod",
+        "domainPrefix": "6aadp98dil",
+        "requestTimeEpoch": 1553669925645,
+        "requestId": "c3aaec7b-505d-11e9-88ed-e1d929dc5215",
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "accountId": null,
+            "cognitoIdentityId": null,
+            "caller": null,
+            "sourceIp": "46.97.144.50",
+            "accessKey": null,
+            "cognitoAuthenticationType": null,
+            "cognitoAuthenticationProvider": null,
+            "userArn": null,
+            "userAgent": "curl/7.64.0",
+            "user": null
+        },
+        "domainName": "6aadp98dil.execute-api.eu-west-1.amazonaws.com",
+        "apiId": "6aadp98dil"
+    },
+    "body": null,
+    "isBase64Encoded": false
+}
